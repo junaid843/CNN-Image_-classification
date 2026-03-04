@@ -1,11 +1,12 @@
 streamlit==1.32.2
-tensorflow==2.15.0
-numpy==1.26.4
+tensorflow==2.21.0
+numpy
 scikit-learn==1.4.2
-matplotlib==3.8.4
-seaborn==0.13.2
-pillow==10.2.0
-plotly==5.20.0
-h5py==3.10.0
+matplotlib
+seaborn
+pillow
+plotly
+h5py
+
 
 
